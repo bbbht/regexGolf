@@ -215,3 +215,29 @@ protohomo         | reyield
 pseudoprimitivism | rubeola
 tocororo          | traitorlike
 unintelligibility | unregainable
+
+---
+- ### Order
+Match all of these… | none of these…
+---|---
+access | analyse
+accloy | balanism
+adeem  | baronet
+aflow  | biddable
+aglow  | griefless
+beefin | harebrain
+befist | jestword
+billot | laicize
+bossy  | marvelry
+certy  | oriole
+chintz | pickietar
+chips  | preferee
+chort  | primness
+cloop  | pulghere
+coost  | rebirth
+demos  | scupper
+fitty  | serigraph
+flory  | sororize
+flossy | theowman
+ghost  | unfrayed
+mopsy  | wagonman

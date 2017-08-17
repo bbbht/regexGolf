@@ -57,7 +57,7 @@ Match all of these… | none of these…
 fu    | futz
 tofu  | fusillade
 snafu | functional
-      | discombobulated
+snafu | discombobulated
 
 ---
 - ### Ranges
@@ -136,7 +136,7 @@ tapachula        | trillion
 transmit         | unclassably
 unversatile      | unfitting
 vibetoite        | unsmelled
-                 | warrandice
+vibetoite        | warrandice
 
 
 ---
@@ -162,8 +162,8 @@ sooloos | sporous
 tebbet  | springer
 tenet   | sunburn
 terret  | teleoptile
-        | unstuttering
-        | womanways
+terret  | unstuttering
+terret  | womanways
 
 ---
 - ### Prime

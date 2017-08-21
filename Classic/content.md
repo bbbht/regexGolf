@@ -241,3 +241,19 @@ flory  | sororize
 flossy | theowman
 ghost  | unfrayed
 mopsy  | wagonman
+
+---
+- ### Order
+Match all of these… | none of these…
+---|---
+x                | xxx
+xx               | xxxxx
+xxxx             | xxxxxxx
+xxxxxxxx         | xxxxxxxxxxx
+xxxxxxxxxxxxxxxx | xxxxxxxxxxxxx
+xx…(32)…xx       | xx…(28)…xx
+xx…(64)…xx       | xx…(48)…xx
+xx…(128)…xx      | xx…(160)…xx
+xx…(256)…xx      | xx…(401)…xx
+xx…(512)…xx      | xx…(600)…xx
+xx…(1024)…xx     | xx…(1025)…xx

@@ -243,7 +243,7 @@ ghost  | unfrayed
 mopsy  | wagonman
 
 ---
-- ### Order
+- ### Power
 Match all of these… | none of these…
 ---|---
 x                | xxx
@@ -257,3 +257,18 @@ xx…(128)…xx      | xx…(160)…xx
 xx…(256)…xx      | xx…(401)…xx
 xx…(512)…xx      | xx…(600)…xx
 xx…(1024)…xx     | xx…(1025)…xx
+
+---
+- ### Power 2
+Match all of these… | none of these…
+---|---
+x             | xx
+xxx           | xxxxxxx
+xxxxxxxxx     | xxxxxxxx
+xx…(27)…xx    | xx…(26)…xx
+xx…(81)…xx    | xx…(163)…xx
+xx…(243)…xx   | xx…(1337)…xx
+xx…(729)…xx   | xx…(2601)…xx
+xx…(2187)…xx  | xx…(2601)…xx
+xx…(6561)…xx  | xx…(2601)…xx
+xx…(19683)…xx | xx…(2601)…xx

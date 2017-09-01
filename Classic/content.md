@@ -1,5 +1,5 @@
 # 题目
-- ### Warmup
+### Warmup
 Match all of these… | none of these…
 ---|---
 afoot   | Atlas
@@ -25,7 +25,7 @@ sfoot   | tarrock
 unfool  | unfold
 
 ---
-- ### Anchors
+### Anchors
 Match all of these… | none of these…
 ---|---
 Mick         | Kickapoo
@@ -51,7 +51,7 @@ unsick       | unlicked
 upstick      | unnickeled
 
 ---
-- ### It never ends
+### It never ends
 Match all of these… | none of these…
 ---|---
 fu    | futz
@@ -60,7 +60,7 @@ snafu | functional
 snafu | discombobulated
 
 ---
-- ### Ranges
+### Ranges
 Match all of these… | none of these…
 ---|---
 abac   | beam
@@ -86,7 +86,7 @@ faff   | widish
 feed   | yite
 
 ---
-- ### Backrefs
+### Backrefs
 Match all of these… | none of these…
 ---|---
 allochirally    | anticker
@@ -112,7 +112,7 @@ undergrounder   | unupbraidingly
 untaunted       | wellside
 
 ---
-- ### Abba
+### Abba
 Match all of these… | none of these…
 ---|---
 acritan          | abba
@@ -140,7 +140,7 @@ vibetoite        | warrandice
 
 
 ---
-- ### A man, a plan
+### A man, a plan
 Match all of these… | none of these…
 ---|---
 civic   | arrogatingly
@@ -166,7 +166,7 @@ terret  | unstuttering
 terret  | womanways
 
 ---
-- ### Prime
+### Prime
 Match all of these… | none of these…
 ---|---
 xx            | xxxx
@@ -191,7 +191,7 @@ xx…(67)…xx    | xx…(30)…xx
 xx…(71)…xx    | xx…(32)…xx
 
 ---
-- ### Four
+### Four
 Match all of these… | none of these…
 ---|---
 Makaraka          | Ludgate
@@ -217,7 +217,7 @@ tocororo          | traitorlike
 unintelligibility | unregainable
 
 ---
-- ### Order
+### Order
 Match all of these… | none of these…
 ---|---
 access | analyse
@@ -243,7 +243,7 @@ ghost  | unfrayed
 mopsy  | wagonman
 
 ---
-- ### Power
+### Power
 Match all of these… | none of these…
 ---|---
 x                | xxx
@@ -259,7 +259,7 @@ xx…(512)…xx      | xx…(600)…xx
 xx…(1024)…xx     | xx…(1025)…xx
 
 ---
-- ### Power 2
+### Power 2
 Match all of these… | none of these…
 ---|---
 x             | xx
@@ -274,7 +274,7 @@ xx…(6561)…xx  | xx…(2601)…xx
 xx…(19683)…xx | xx…(2601)…xx
 
 ---
-- ### Long count
+### Long count
 Match all of these… | none of these…
 ---|---
 0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 1010 1011 1100 1101 1110 1111 | 0000 0001 0000 0011 0100 0101 0110 0110 1000 1001 1010 1011 1100 1101 1110 1111

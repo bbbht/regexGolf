@@ -23,23 +23,26 @@ xxxxx - x = xxxx                       | xxxxx - xxxxxxxxxxxxx = xx
 xxxxxxxxxxx - xxxx = xxxxxxx           | xxxxxxxxxxxx - xxxxxxxxxxxx = x
 xxxxxxxxxx - xxxxx = xxxxx             | xxxxxx - xx = xxx
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Typist
+Match all of these… | none of these…
+---|---
+address    | across
+afterwards | afternoon
+average    | approximate
+better     | bitter
+bread      | butter
+card       | cardboard
+create     | change
+decrease   | double
+effect     | effort
+exaggerate | explain
+face       | fame
+freeze     | fry
+garbage    | gold
+grass      | grow
+reverse    | reflect
+stress     | strain
+sweater    | suit
+target     | tablet
+tree       | tower
+wave       | warn

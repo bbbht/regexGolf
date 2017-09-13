@@ -72,3 +72,28 @@ xxxxxx + x = xxx + xxxx                   | xxxxxxxxxx + xxxx = xxxx + xxxxxxx
 xxxxxxx + xxxxxxxxx = xxxxxxxxxxx + xxxxx | xxxxxx + xxxxx = xxxxxxxxx + x
 xxxxx + xxxxxxxxxx = xxx + xxxxxxxxxxxx   | x + xxxxxxxxxxx = xxxx + xxxxxxxxxxx
 xxxxxx + xx = x + xxxxxxx                 | xxxxxxxxxxx + xxxx = xxxxx + xxxxxx
+
+---
+### Matryoshka
+Match all of these… | none of these…
+---|---
+a at art part party partly particularly | airport smile worrying car data
+able table stable suitable              | alive dozen distinguish market
+all hall shall shallow                  | answer bye leather obviously
+an pan plan plant planet                | axe sore chemist amuse should
+be bet bent benefit                     | be bee wasp hornet
+cat coat coast contrast                 | cake cream cheese chocolate
+eat east breast breakfast               | eat enter entry sentry
+fun fund found foundation               | fund fond found foundation
+he her here where wherever              | her her here here theatre
+ice rice price prince principle         | ice price prince principle rice
+in pin pint point appoint disappoint    | in pint appoint appoint
+it sit sight slight slightly            | it sight slight slight
+me meal metal mental fundamental        | me meal me metal mental
+on moon motion promotion                | on moon motion emotional
+or for four flour flavour               | or four for four flour
+pot spot sport support                  | pot spot sport sport support
+rid ride pride provide                  | rid ride pride president
+sad sand stand understand               | sad sand stand outstanding
+tea team steam stream                   | tea team stream streaming
+to tough though through thorough        | tough tough through thorough

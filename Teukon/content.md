@@ -97,3 +97,28 @@ rid ride pride provide                  | rid ride pride president
 sad sand stand understand               | sad sand stand outstanding
 tea team steam stream                   | tea team stream streaming
 to tough though through thorough        | tough tough through thorough
+
+---
+### Euclid
+Match all of these… | none of these…
+---|---
+gcd(x, x) = x                         | gcd(x, x) = xx
+gcd(x, xxxxxxxxxxxxxxxx) = x          | gcd(x, xxxxx) = xxxxx
+gcd(xx, x) = x                        | gcd(xx, xxxxxx) = x
+gcd(xxx, xxx) = xxx                   | gcd(xx, xxxxxxxxx) = xx
+gcd(xxx, xxxxxxxxxxxx) = xxx          | gcd(xxx, xxxxxx) = xxxx
+gcd(xxxx, xxxxxxxxx) = x              | gcd(xxx, xxxxxxxxxxxx) = xxxxxx
+gcd(xxxx, xxxxxxxxxx) = xx            | gcd(xxxx, xxxxxxxx) = xx
+gcd(xxxxx, xxxxxxx) = x               | gcd(xxxxx, xxxxxxxxxxxxxx) = xxxx
+gcd(xxxxxx, xxxx) = xx                | gcd(xxxxxx, xxxxxxxx) = xxx
+gcd(xxxxxx, xxxxx) = x                | gcd(xxxxxx, xxxxxxxxx) = xxxxxx
+gcd(xxxxxx, xxxxxx) = xxxxxx          | gcd(xxxxxx, xxxxxxxxxxxx) = xx
+gcd(xxxxxx, xxxxxxxxx) = xxx          | gcd(xxxxxxx, xxxxxxx) = x
+gcd(xxxxxxx, xxxxxxx) = xxxxxxx       | gcd(xxxxxxxx, xxxxxxxxxx) = x
+gcd(xxxxxxx, xxxxxxxx) = x            | gcd(xxxxxxxx, xxxxxxxxxxxx) = xx
+gcd(xxxxxxxx, xxxxxxxxxxxx) = xxxx    | gcd(xxxxxxxxx, xxxxxxxxxxxx) = x
+gcd(xxxxxxxxxx, xxxx) = xx            | gcd(xxxxxxxxxx, xxxxxxxxxx) = xxxxx
+gcd(xxxxxxxxxx, xxxxx) = xxxxx        | gcd(xxxxxxxxxxxx, xxxxxxxxxx) = xxxxx
+gcd(xxxxxxxxxxxx, xxxxxx) = xxxxxx    | gcd(xxxxxxxxxxxxxx, xxx) = xxx
+gcd(xxxxxxxxxxxxxxx, xxxxxxxxx) = xxx | gcd(xxxxxxxxxxxxxxx, xxxxx) = x
+gcd(xx…(18)…xx, xxxx) = xx            | gcd(xxxxxxxxxxxxxxxx, xx) = xxxx

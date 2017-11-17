@@ -122,3 +122,28 @@ gcd(xxxxxxxxxx, xxxxx) = xxxxx        | gcd(xxxxxxxxxxxx, xxxxxxxxxx) = xxxxx
 gcd(xxxxxxxxxxxx, xxxxxx) = xxxxxx    | gcd(xxxxxxxxxxxxxx, xxx) = xxx
 gcd(xxxxxxxxxxxxxxx, xxxxxxxxx) = xxx | gcd(xxxxxxxxxxxxxxx, xxxxx) = x
 gcd(xx…(18)…xx, xxxx) = xx            | gcd(xxxxxxxxxxxxxxxx, xx) = xxxx
+
+---
+### Tic-tac-toe
+Match all of these… | none of these…
+---|---
+OX. X.. OOO | ... XX. ...
+.XO .OO XOO | .OO O.O ...
+OOO .OO O.X | ..X XXO ..X
+X.. XOO XOX | ..X O.X .OO
+XXX X.O OX. | .OO ... OOX
+X.O .XO XOO | X.X .XO .OO
+XOO .OO OXO | XO. X.. OXO
+XOO XX. .OX | .O. .X. .X.
+XO. .XX .XX | .XX X.O .XO
+.OO XOX .OX | OXO O.X XO.
+XX. .XO .OX | XXO OOX X.O
+OXX OX. XO. | .X. XXO OO.
+OX. XO. OOO | X.O OO. X.O
+X.. XXX OOO | OXO .XX X..
+X.X O.X OOX | .OO O.. OXO
+.XO X.O O.O | .OX XX. .XO
+OOO XXX ..X | .OX ..X ..O
+OX. OXO OX. | OX. .X. .O.
+X.. XOX X.O | XX. OXX OO.
+.OO XO. XXX | OXO O.. ...

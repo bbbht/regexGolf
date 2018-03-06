@@ -172,3 +172,28 @@ Match all of these… | none of these…
 61 66 61 12 02 03 23          | 61 66 62 12 02 03 23
 64 14 11 31 23 23 36 63       | 64 14 11 21 23 23 36 63
 65 51 15 51 51 15 10 10 13 03 | 65 51 15 51 51 15 15 10 13 03
+
+---
+### Anyway
+Match all of these… | none of these…
+---|---
+anyway     | action
+bone       | blue
+cinema     | certain
+cover      | crown
+define     | equal
+economy    | gamble
+eleven     | jacket
+eye        | lawyer
+hesitate   | multiply
+key        | mysterious
+majority   | news
+music      | odd
+palace     | opposite
+potato     | prize
+relax      | quit
+royal      | symbol
+surely     | thirteen
+typical    | toe
+vocabulary | try
+water      | young
